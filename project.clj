@@ -1,4 +1,4 @@
-(def grpc-version "1.40.0")
+(def grpc-version "1.41.0")
 
 (defproject renovate-common-version "0.1.0-SNAPSHOT"
   :description "FIXME: write description"
